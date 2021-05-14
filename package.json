@@ -1,5 +1,7 @@
 {
-  "name": "01-github-explorer",
+  "name": "github-explorer",
+  "author": "Luiz Oliveira <luiiz.silverio@gmail.com>",
+  "repository": "https://github.com/luiizsilverio/github-explorer",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
